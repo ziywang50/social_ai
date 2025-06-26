@@ -9,8 +9,11 @@ I primarily developed the front-end interface using React JS and React Router. I
 Features I contributed to include:
 
 AI-powered image generation via DALL·E 3
+
 User login and post creation
+
 Personal and global feeds
+
 Integration with backend ElasticSearch for post searching
 
 
