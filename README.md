@@ -4,13 +4,16 @@ This was a full-stack app I helped build during a GenAI-focused bootcamp. The go
 
 ## What I Built
 
-I focused mainly on the front-end, building the user interface with React JS and React Router. I also implemented token-based authentication using JWT and helped connect the front-end to our Go-based backend (hosted on Google Cloud App Engine).
+I primarily developed the front-end interface using React JS and React Router. I implemented token-based authentication with JWT and integrated the front-end with our Go backend, which is hosted on Google Cloud App Engine.
 
-The app included:
-- AI-powered image generation using DALL·E 3
-- User login and post creation
-- Personal and global feed views
-- ElasticSearch integration for post search (on backend)
+Features I contributed to include:
+
+AI-powered image generation via DALL·E 3
+User login and post creation
+Personal and global feeds
+Integration with backend ElasticSearch for post searching
+
+
 
 ## Notes
 
